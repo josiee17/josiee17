@@ -2,7 +2,7 @@
 
 🧠 Computer Engineering Student at McGill University <br/>
 🎨 Passionate about building cozy, human-centered interfaces and tools <br/>
-👾 Exploring frontend/backend development, UX, and human-centered tech <br/>
+👾 Exploring frontend/backend development, UI/UX, and human-centered tech <br/>
 🌱 Constantly learning and improving across development, design, and communication <br/>
 
 
